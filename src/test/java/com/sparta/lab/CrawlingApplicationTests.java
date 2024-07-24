@@ -1,4 +1,4 @@
-package com.sparta.crawling;
+package com.sparta.lab;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
